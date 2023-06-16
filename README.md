@@ -1,4 +1,5 @@
-<h1 align="center">Hi👋, I'm Jhonatan. I have a background in Mechanical Electrical Engineering, and I have been working in the electrical field for the past four years. Recently, I made a decision to pursue a career change. Over the last five months, I have dedicated my time to studying C#, ASP.NET, HTML, CSS, and DOCKER. Now, I am eager to gain practical experience by working in a team environment</h1>
+<h1 align="center">Hi👋, I'm Jhonatan. </h1>
+<p>I have a background in Mechanical Electrical Engineering, and I have been working in the electrical field for the past four years. Recently, I made a decision to pursue a career change. Over the last five months, I have dedicated my time to studying C#, ASP.NET, HTML, CSS, and DOCKER. Now, I am eager to gain practical experience by working in a team environment</p>
 <h3 align="center">Backend Programmer specialized in .NET</h3>
 
 - 🔭 I’m currently working on [e-commerceAPI](https://github.com/Jhonatan1599/e-commerceAPI)
