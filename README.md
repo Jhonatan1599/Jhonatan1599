@@ -3,11 +3,11 @@
 
 <p>I have a background in Mechanical Electrical Engineering, and I have been working in the electrical field for the past four years. Recently, I made a decision to pursue a career change. Over the last five months, I have dedicated my time to studying C#, ASP.NET, HTML, CSS, and DOCKER. Now, I am eager to gain practical experience by working in a team environment</p>
 
-- 🔭 I’m currently working on [e-commerceAPI](https://github.com/Jhonatan1599/e-commerceAPI)
+- 🔭 I am currently participating in No Country, a 5-week program that simulates a working environment. As a group, we are developing an e-  commerce platform specialized in book sales. I am working as a backend developer.
 
-- 🌱 I’m currently learning **.NET, Docker, Azure**
+- 🌱 I’m currently learning **Blazor**
 
-- 👨‍💻 All of my projects are available at [myportafolio.com](myportafolio.com)
+- 👨‍💻 All of my projects are available at [myportolio](https://portfolio.app.csharpjourney.com/)
 
 - 💬 Ask me about **Backend technologies**
 
