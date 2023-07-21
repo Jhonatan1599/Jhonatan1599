@@ -5,7 +5,7 @@
 
 - 🔭 I am currently participating in No Country, a 5-week program that simulates a working environment. As a group, we are developing an e-  commerce platform specialized in book sales. I am working as a backend developer.
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Testing**
 
 - 👨‍💻 All of my projects are available at [myportolio](https://portfolio.app.csharpjourney.com/)
 
