@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Testing**
 
-- 👨‍💻 All of my projects are available at [myportolio](https://portfolio.app.csharpjourney.com/)
+- 👨‍💻 All of my projects are available at [myportfolio](https://portfolio.app.csharpjourney.com/)
 
 - 💬 Ask me about **Backend technologies**
 
